@@ -1,2 +1,2 @@
-GitHub repository link - 
-Live GitHub pages URL - 
+GitHub repository link - https://github.com/ambika-rawat/recipe-website 
+Live GitHub pages URL -  https://ambika-rawat.github.io/recipe-website/
